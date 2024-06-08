@@ -3,6 +3,7 @@
 import PackageDescription
 
 var sources = [
+    "finetune/export-lora.cpp",
     "ggml.c",
     "sgemm.cpp",
     "llama.cpp",
